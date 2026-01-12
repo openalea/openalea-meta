@@ -3,7 +3,7 @@
 _________________
 
 [![Docs](https://readthedocs.org/projects/openalea-meta/badge/?version=latest)](https://openalea-meta.readthedocs.io/)
-[![Build Status](https://github.com/openalea/openalea-meta/actions/workflows/conda-package-build.yml/badge.svg?branch=main)](https://github.com/openalea/openalea-meta/actions/workflows/conda-package-build.yml?query=branch%3Amaster)
+[![Build Status](https://github.com/openalea/openalea-meta/actions/workflows/openalea_ci.yml/badge.svg)](https://github.com/openalea/openalea-meta/actions/workflows/openalea_ci.yml)
 [![License](https://img.shields.io/badge/License--CeCILL-C-blue)](https://www.cecill.info/licences/Licence_CeCILL-C_V1-en.html)
 [![Anaconda-Server Badge](https://anaconda.org/openalea3/openalea-meta/badges/version.svg)](https://anaconda.org/openalea3/openalea-meta)
 
