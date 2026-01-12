@@ -13,7 +13,28 @@ _________________
 
 _________________
 
-**openalea-meta** openalea meta-package
+**openalea-meta** is an openalea meta-package that allows to install with one command line the latest release. The following 
+openalea packages are included:
+  - [openalea.plantgl](https://plantgl.readthedocs.io/en/latest/)
+  - [openalea.lpy](https://lpy.readthedocs.io/en/latest/)
+  - [openalea.core](https://github.com/openalea/core)
+  - [openalea.widgets](https://oawidgets.readthedocs.io/en/latest/)
+  - [openalea.mtg ](https://mtg.readthedocs.io/en/latest/)
+  - [openalea.scipack](https://scipack.readthedocs.io/en/latest/)
+  - [openalea.oalab](https://github.com/openalea/oalab)
+  - [openalea.grapheditor](https://grapheditor.readthedocs.io/en/latest/)
+  - [openalea.visualea](https://visualea.readthedocs.io/en/latest/)
+  - [openalea.weberpenn](https://openalea.readthedocs.io/en/latest/tutorials/visualea/weberpenn.html)
+  - [openalea.rsml ](https://github.com/openalea/rsml)
+  - [openalea.caribu](https://caribu.readthedocs.io/en/latest/)
+  - [openalea.astk](https://openalea-astk.readthedocs.io/)
+  - [openalea.adel](https://adel.readthedocs.io/en/latest/)
+  - [openalea.spice](https://openalea-spice.readthedocs.io/en/latest/)
+  - [openalea.hydroroot](hydroroot.readthedocs.io/en/latest/)
+  - [openalea.phenomenal](https://phenomenal.readthedocs.io/en/latest/)
+  - [openalea.hydroshoot](https://hydroshoot.readthedocs.io/en/latest/)
+  - [openalea.wheatfspm](https://wheatfspm.readthedocs.io/)
+  - [openalea.ratp](https://pyratp.readthedocs.io/en/latest/)
 
 ### Contributors
 

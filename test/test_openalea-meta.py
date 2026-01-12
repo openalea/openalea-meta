@@ -20,4 +20,4 @@ from openalea.spice import *
 from openalea.hydroroot import *
 from openalea.phenomenal import *
 from openalea.hydroshoot import *
-from openalea.wheatfspm import *
+from openalea.fspmwheat import *
