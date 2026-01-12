@@ -74,7 +74,6 @@ channels = [
   "conda-forge"
 ]
 dependencies = [
-    "pyqglviewer",
     "openalea.plantgl",
     "openalea.lpy",
     "openalea.core",

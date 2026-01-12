@@ -6,7 +6,6 @@ channels:
   - openalea3/label/dev
 dependencies:
   - python
-  - pyqglviewer
   - openalea.plantgl
   - openalea.lpy
   - openalea.core
