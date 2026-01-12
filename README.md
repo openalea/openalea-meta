@@ -9,10 +9,6 @@ _________________
 
 _________________
 
-[Read The Latest Documentation](https://openalea-meta.readthedocs.io/) - [Browse GitHub Code Repository](https://github.com/openalea/openalea-meta/)
-
-_________________
-
 **openalea-meta** is an openalea meta-package that allows to install with one command line the latest release. The following 
 openalea packages are included:
   - [openalea.plantgl](https://plantgl.readthedocs.io/en/latest/)
