@@ -13,7 +13,7 @@ where = ["src"]
 include-package-data = false # force explicit declaration of data (disable automatic inclusion)
 
 [tool.setuptools.package-data]
-"openalea.pkg_name" = ["data/**/*"]
+"openalea.openalea-meta" = ["data/**/*"]
 
 # enable dynamic version based on git tags
 [tool.setuptools_scm]
@@ -22,6 +22,7 @@ include-package-data = false # force explicit declaration of data (disable autom
 name = "openalea.openalea-meta"
 authors = [
   { name = "Fabrice Bauget" },
+  { name = "Christophe Pradal" },
 ]
 description = "openalea meta-package"
 readme = "README.md"
@@ -76,6 +77,27 @@ channels = [
   "conda-forge"
 ]
 dependencies = [
+    "pyqglviewer",
+    "openalea.plantgl",
+    "openalea.lpy",
+    "openalea.core",
+    "openalea.widgets",
+    "openalea.mtg ",
+    "openalea.scipack",
+    "openalea.oalab",
+    "openalea.grapheditor",
+    "openalea.visualea",
+    "openalea.weberpenn",
+    "openalea.rsml ",
+    "openalea.ratp",
+    "openalea.caribu",
+    "openalea.astk",
+    "openalea.adel",
+    "openalea.spice",
+    "openalea.hydroroot",
+    "openalea.phenomenal",
+    "openalea.hydroshoot",
+    "openalea.wheatfspm",
 ]
 
 [project.urls]
@@ -86,4 +108,4 @@ Discussions = "https://github.com/openalea/openalea-meta/discussions"
 Changelog = "https://github.com/openalea/openalea-meta/releases"
 
 [project.entry-points."wralea"]
-"my_pkg" = "openalea.openalea-meta_wralea"
+"openalea-meta" = "openalea.openalea-meta_wralea"

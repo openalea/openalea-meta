@@ -1,9 +1,27 @@
-name: openalea-meta_dev
+name: openalea-meta
 channels:
   - conda-forge
   - openalea3
 dependencies:
   - python
-  - pip
-  - pip:
-      - -e '..[test,dev,doc]'
+  - pyqglviewer
+  - openalea.plantgl
+  - openalea.lpy
+  - openalea.core
+  - openalea.widgets
+  - openalea.mtg 
+  - openalea.scipack
+  - openalea.oalab
+  - openalea.grapheditor
+  - openalea.visualea
+  - openalea.weberpenn
+  - openalea.rsml 
+  - openalea.ratp
+  - openalea.caribu
+  - openalea.astk
+  - openalea.adel
+  - openalea.spice
+  - openalea.hydroroot
+  - openalea.phenomenal
+  - openalea.hydroshoot
+  - openalea.wheatfspm
