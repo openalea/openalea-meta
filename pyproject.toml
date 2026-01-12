@@ -16,7 +16,7 @@ include-package-data = false # force explicit declaration of data (disable autom
 [tool.setuptools_scm]
 
 [project]
-name = "openalea.openalea-meta"
+name = "openalea"
 authors = [
   { name = "Fabrice Bauget" },
   { name = "Christophe Pradal" },
