@@ -42,6 +42,11 @@ openalea packages are included:
 mamba create -n openalea -c openalea3 -c conda-forge openalea.openalea-meta
 ```
 
+The environement and the package can be installed also as follows:
+```bash
+mamba env create -f conda/environment.yml
+```
+
 ### Documentation
 A general documentation on openalea can be found [here](https://openalea.readthedocs.io/en/latest/index.html). Documentation
 of each package can be found following the links above.
