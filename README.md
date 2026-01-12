@@ -36,6 +36,16 @@ openalea packages are included:
   - [openalea.wheatfspm](https://wheatfspm.readthedocs.io/)
   - [openalea.ratp](https://pyratp.readthedocs.io/en/latest/)
 
+
+### Installation
+```bash
+mamba create -n openalea -c openalea3 -c conda-forge openalea.openalea-meta
+```
+
+### Documentation
+A general documentation on openalea can be found [here](https://openalea.readthedocs.io/en/latest/index.html). Documentation
+of each package can be found following the links above.
+
 ### Contributors
 
 Thanks to all that contribute making this package what it is !
