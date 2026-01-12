@@ -5,10 +5,6 @@ requires = [
 ]
 build-backend = "setuptools.build_meta"
 
-# where your source lies if you followed src layout
-[tool.setuptools.packages.find]
-where = ["src"]
-
 [tool.setuptools]
 include-package-data = false # force explicit declaration of data (disable automatic inclusion)
 
