@@ -35,7 +35,7 @@ openalea packages are included:
 
 ### Installation
 ```bash
-mamba create -n openalea -c openalea3 -c conda-forge openalea.openalea-meta
+mamba create -n openalea -c openalea3 -c conda-forge openalea
 ```
 
 The environement and the package can be installed also as follows:
