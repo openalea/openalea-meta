@@ -26,7 +26,7 @@ openalea packages are included:
   - [openalea.astk](https://openalea-astk.readthedocs.io/)
   - [openalea.adel](https://adel.readthedocs.io/en/latest/)
   - [openalea.spice](https://openalea-spice.readthedocs.io/en/latest/)
-  - [openalea.hydroroot](hydroroot.readthedocs.io/en/latest/)
+  - [openalea.hydroroot](https://hydroroot.readthedocs.io/en/latest/)
   - [openalea.phenomenal](https://phenomenal.readthedocs.io/en/latest/)
   - [openalea.hydroshoot](https://hydroshoot.readthedocs.io/en/latest/)
   - [openalea.wheatfspm](https://wheatfspm.readthedocs.io/)
