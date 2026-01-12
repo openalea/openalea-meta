@@ -102,10 +102,10 @@ dependencies = [
 
 [project.urls]
 Repository = "https://github.com/openalea/openalea-meta"
-Homepage = "https://openalea-meta.readthedocs.io/"
+Homepage = "https://openalea.readthedocs.io/"
 "Bug Tracker" = "https://github.com/openalea/openalea-meta/issues"
 Discussions = "https://github.com/openalea/openalea-meta/discussions"
 Changelog = "https://github.com/openalea/openalea-meta/releases"
 
-[project.entry-points."wralea"]
-"openalea-meta" = "openalea.openalea-meta_wralea"
+#[project.entry-points."wralea"]
+#"openalea-meta" = "openalea.openalea-meta_wralea"

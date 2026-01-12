@@ -2,6 +2,8 @@ name: openalea-meta
 channels:
   - conda-forge
   - openalea3
+  - openalea3/label/rc
+  - openalea3/label/dev
 dependencies:
   - python
   - pyqglviewer
