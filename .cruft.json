@@ -1,0 +1,23 @@
+{
+  "template": "https://github.com/openalea/cookiecutter-openalea/",
+  "commit": "5d8d8e429fd5cda47d7c730c4a51eac3ec0d0407",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Fabrice Bauget",
+      "email": "fabrice.bauget@cirad.fr",
+      "github_username": "baugetfa",
+      "project_name": "openalea-meta",
+      "project_slug": "openalea-meta",
+      "description": "openalea meta-package",
+      "pure_python": true,
+      "version": "0.0.1",
+      "_copy_without_render": [
+        ".github/workflows/openalea_ci.yml"
+      ],
+      "_template": "https://github.com/openalea/cookiecutter-openalea/",
+      "_commit": "5d8d8e429fd5cda47d7c730c4a51eac3ec0d0407"
+    }
+  },
+  "directory": null
+}

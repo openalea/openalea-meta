@@ -1,0 +1,17 @@
+[report]
+exclude_lines =
+    pragma: no cover
+omit =
+    *tests*
+show_missing = True
+
+[html]
+title = openalea.openalea-meta coverage report
+directory = build/htmlcov
+
+[run]
+source = openalea.openalea-meta
+omit =
+        *__init__*
+        *test*
+

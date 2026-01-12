@@ -1,0 +1,9 @@
+name: openalea-meta_dev
+channels:
+  - conda-forge
+  - openalea3
+dependencies:
+  - python
+  - pip
+  - pip:
+      - -e '..[test,dev,doc]'
