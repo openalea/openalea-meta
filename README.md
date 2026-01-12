@@ -21,7 +21,7 @@ openalea packages are included:
   - [openalea.grapheditor](https://grapheditor.readthedocs.io/en/latest/)
   - [openalea.visualea](https://visualea.readthedocs.io/en/latest/)
   - [openalea.weberpenn](https://openalea.readthedocs.io/en/latest/tutorials/visualea/weberpenn.html)
-  - [openalea.rsml ](https://github.com/openalea/rsml)
+  - [openalea.rsml ](https://rsml.readthedocs.io/en/latest/)
   - [openalea.caribu](https://caribu.readthedocs.io/en/latest/)
   - [openalea.astk](https://openalea-astk.readthedocs.io/)
   - [openalea.adel](https://adel.readthedocs.io/en/latest/)
