@@ -12,9 +12,6 @@ where = ["src"]
 [tool.setuptools]
 include-package-data = false # force explicit declaration of data (disable automatic inclusion)
 
-[tool.setuptools.package-data]
-"openalea.openalea-meta" = ["data/**/*"]
-
 # enable dynamic version based on git tags
 [tool.setuptools_scm]
 

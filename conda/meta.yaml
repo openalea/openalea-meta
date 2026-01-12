@@ -35,9 +35,6 @@ requirements:
     - {{ dep }}
     {% endfor  %}
 
-  build:
-    - {{ compiler("cxx") }}
-
   run:
     - python
     {% for dep in deps + conda_deps %}
@@ -45,21 +42,18 @@ requirements:
     {% endfor %}
 
 
-
-
 test:
-  imports:
-    - openalea.openalea-meta
-  requires:
 
-    {% for dep in test_deps %}
+  requires:
+    {% for dep in test_deps + conda_deps %}
     - {{ dep }}
     {% endfor %}
 
   source_files:
-    - test/
+    - test/**
   commands:
-    - pytest
+    - cd test
+    - pytest -v
 
 
 about:
