@@ -22,6 +22,6 @@ jobs:
   build:
     uses: openalea/action-build-publish-anaconda/.github/workflows/openalea_ci.yml@main
     with:
-      channels: 'openalea3,openalea3/label/rc,openalea3/label/dev,conda-forge'
+      force-channel-priority: 'openalea3,openalea3/label/rc,openalea3/label/dev,conda-forge'
     secrets:
       anaconda_token: ${{ secrets.ANACONDA_TOKEN }}
