@@ -84,12 +84,12 @@ dependencies = [
   "openalea.ratp=2.2.0",
   "openalea.caribu=8.2.1",
   "openalea.astk=3.1.0",
-  "openalea.adel=2.1.0",
-  "openalea.spice=1.1.0",
+  "openalea.adel=2.1.1",
+  "openalea.spice=1.1.1",
   "openalea.hydroroot=2.1.0",
-  "openalea.phenomenal=1.10.2",
+  "openalea.phenomenal=1.10.4",
   "openalea.hydroshoot=5.3.0",
-  "openalea.wheatfspm=2.0.1.dev",
+#  "openalea.wheatfspm=2.0.1.dev",
 ]
 
 [project.urls]
