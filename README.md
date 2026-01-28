@@ -29,7 +29,6 @@ openalea packages are included:
   - [openalea.hydroroot](https://hydroroot.readthedocs.io/en/latest/)
   - [openalea.phenomenal](https://phenomenal.readthedocs.io/en/latest/)
   - [openalea.hydroshoot](https://hydroshoot.readthedocs.io/en/latest/)
-  - [openalea.wheatfspm](https://wheatfspm.readthedocs.io/)
   - [openalea.ratp](https://pyratp.readthedocs.io/en/latest/)
 
 
