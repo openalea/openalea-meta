@@ -12,7 +12,7 @@ include-package-data = false # force explicit declaration of data (disable autom
 [tool.setuptools_scm]
 
 [project]
-name = "openalea"
+name = "openalea2025"
 authors = [
   { name = "Fabrice Bauget" },
   { name = "Christophe Pradal" },
@@ -70,7 +70,7 @@ channels = [
   "conda-forge"
 ]
 dependencies = [
-  "openalea.plantgl=3.22.3",
+  "openalea.plantgl=3.23.2",
   "openalea.lpy=3.15.4",
   "openalea.core=2.5.0",
   "openalea.widgets=1.1.2",
@@ -99,5 +99,3 @@ Homepage = "https://openalea.readthedocs.io/"
 Discussions = "https://github.com/openalea/openalea-meta/discussions"
 Changelog = "https://github.com/openalea/openalea-meta/releases"
 
-#[project.entry-points."wralea"]
-#"openalea-meta" = "openalea.openalea-meta_wralea"

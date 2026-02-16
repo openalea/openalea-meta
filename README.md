@@ -10,7 +10,7 @@ _________________
 
 **openalea-meta** is an openalea meta-package that allows to install with one command line the stable release. The following 
 openalea packages are included:
-  - [openalea.plantgl 3.22.3](https://plantgl.readthedocs.io/en/stable/)
+  - [openalea.plantgl 3.23.2](https://plantgl.readthedocs.io/en/stable/)
   - [openalea.lpy 3.15.4](https://lpy.readthedocs.io/en/stable/)
   - [openalea.core 2.5.0](https://github.com/openalea/core)
   - [openalea.widgets 1.1.2](https://oawidgets.readthedocs.io/en/stable/)
@@ -30,10 +30,9 @@ openalea packages are included:
   - [openalea.hydroshoot 5.3.0](https://hydroshoot.readthedocs.io/en/stable/)
   - [openalea.ratp 2.2.0](https://pyratp.readthedocs.io/en/stable/)
 
-
 ### Installation
 ```bash
-mamba create -n openalea -c openalea3 -c conda-forge openalea
+mamba create -n openalea -c openalea3 -c conda-forge openalea2025
 ```
 
 The environement and the package can be installed also as follows:
