@@ -25,5 +25,4 @@ jobs:
       anaconda_token: ${{ secrets.ANACONDA_TOKEN }}
     with:
       channel_priority: "disabled"
-      operating-system: '["macos-15-intel"]'
 
