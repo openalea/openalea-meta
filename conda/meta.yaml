@@ -41,6 +41,8 @@ requirements:
     - {{ dep }}
     {% endfor %}
 
+  run_constrained:
+    - qt6-main <0a0  # [osx and x86_64]
 
 test:
 

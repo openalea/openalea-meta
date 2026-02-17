@@ -25,3 +25,4 @@ jobs:
       anaconda_token: ${{ secrets.ANACONDA_TOKEN }}
     with:
       channel_priority: "disabled"
+
