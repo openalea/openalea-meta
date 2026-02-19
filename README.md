@@ -22,7 +22,7 @@ openalea packages are included:
   - [openalea.weberpenn 2.5.0](https://openalea.readthedocs.io/en/stable/tutorials/visualea/weberpenn.html)
   - [openalea.rsml 1.5.0](https://rsml.readthedocs.io/en/stable/)
   - [openalea.caribu 8.2.1](https://caribu.readthedocs.io/en/stable/)
-  - [openalea.astk 3.1.0](https://openalea-astk.readthedocs.io/)
+  - [openalea.astk 3.1.1](https://openalea-astk.readthedocs.io/)
   - [openalea.adel 2.1.1](https://adel.readthedocs.io/en/stable/)
   - [openalea.spice 1.1.1](https://openalea-spice.readthedocs.io/en/stable/)
   - [openalea.hydroroot 2.1.0](https://hydroroot.readthedocs.io/en/stable/)
@@ -32,7 +32,7 @@ openalea packages are included:
 
 ### Installation
 ```bash
-mamba create -n openalea -c openalea3 -c conda-forge openalea2025
+mamba create -n openalea -c openalea3 -c conda-forge openalea=3.0.0
 ```
 
 The environement and the package can be installed also as follows:
