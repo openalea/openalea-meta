@@ -4,7 +4,7 @@ _________________
 
 [![Build Status](https://github.com/openalea/openalea-meta/actions/workflows/openalea_ci.yml/badge.svg)](https://github.com/openalea/openalea-meta/actions/workflows/openalea_ci.yml)
 [![License](https://img.shields.io/badge/License--CeCILL-C-blue)](https://www.cecill.info/licences/Licence_CeCILL-C_V1-en.html)
-[![Anaconda-Server Badge](https://anaconda.org/openalea3/openalea-meta/badges/version.svg)](https://anaconda.org/openalea3/openalea)
+[![Anaconda-Server Badge](https://anaconda.org/openalea3/openalea/badges/version.svg)](https://anaconda.org/openalea3/openalea)
 
 _________________
 
