@@ -29,11 +29,10 @@ openalea packages are included:
   - [openalea.phenomenal 1.10.4](https://phenomenal.readthedocs.io/en/stable/)
   - [openalea.hydroshoot 5.3.0](https://hydroshoot.readthedocs.io/en/stable/)
   - [openalea.ratp 2.2.0](https://pyratp.readthedocs.io/en/stable/)
-  - [openalea.cnw-grass 3.0.0](https://cnwgrass.readthedocs.io/en/stable/)
 
 ### Installation
 
-Conda must be installed, please follow the instructions and **recommendations** [here](https://openalea.readthedocs.io/en/latest/install.html).
+Conda must be installed, please follow the instructions and recommendations [here](https://openalea.readthedocs.io/en/latest/install.html).
 
 ```bash
 mamba create -n openalea -c openalea3 -c conda-forge openalea=3.0.0
